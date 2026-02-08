@@ -1,0 +1,5 @@
+{
+  "name": "RAD-FLOW | ABSOLUTE Terminal",
+  "description": "A minimalist, secure command-line interface mimicking a system boot sequence with self-identification and basic command processing, featuring a 'Void UI' aesthetic.",
+  "requestFramePermissions": []
+}
